@@ -12,3 +12,5 @@ venv/arm
 *.mp4
 *.avi
 output/
+
+README_2.md
